@@ -1,16 +1,18 @@
 # Coleccion-De-Libros
 App creada en JavaScript con LocalStorage , basicamente es un app donde practique mientras hacia un curso de JavaScript en udemy
 
-IMPORTACIONES
+IMPORTACIONES:
 
-Importar desde la terminal o cmd:
-npm init
+Importar desde la terminal o cmd , sin las comillas:
 
-npm install lite-server --save-dev
+1- "npm init"
 
-Para correr la app -> en la terminal o cmd ejecutar: npm run dev
+2- "npm install lite-server --save-dev"
 
-localhost:3000     //Por si no se abre automaticamente , se abre desde ese localhost
+Para correr la app -> en la terminal o cmd ejecutar: 
+"npm run dev"
+
+localhost:3000 -> es el Localhost
 
 
 
