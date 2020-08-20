@@ -4,6 +4,7 @@ App creada en JavaScript con LocalStorage , basicamente es un app donde practiqu
 IMPORTACIONES
 
 Importar desde la terminal o cmd:
+npm init
 npm install lite-server --save-dev
 
 Para correr la app -> en la terminal o cmd ejecutar: npm run dev
